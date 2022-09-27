@@ -9,6 +9,11 @@ body {
   flex-direction: column;
   justify-content: space-between;
 }
+
+.love{
+  font-size:20px;
+  font-weight:500;
+}
 .aside {
   height: 400px;
 }
